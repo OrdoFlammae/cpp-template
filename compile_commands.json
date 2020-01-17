@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/ordoflammae/projects/mar-compiler",
-  "command": "/usr/bin/c++   -I/home/ordoflammae/projects/mar-compiler/include    -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wnull-dereference -Wuseless-cast -Wdouble-promotion -Wformat=2 -std=gnu++1z -o CMakeFiles/mar-compiler.dir/src/main.cpp.o -c /home/ordoflammae/projects/mar-compiler/src/main.cpp",
-  "file": "/home/ordoflammae/projects/mar-compiler/src/main.cpp"
-}
-]
